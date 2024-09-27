@@ -16,7 +16,7 @@ public class Ex05_GodzillaVsKong {
 
         double neededMoney = statistics * clothesPerPerson + decor;
 
-        if (budget - neededMoney < 0) {
+        if (budget < neededMoney) {
             System.out.println("Not enough money!");
             System.out.printf("Wingard needs %.2f leva more.", neededMoney - budget);
         } else {
