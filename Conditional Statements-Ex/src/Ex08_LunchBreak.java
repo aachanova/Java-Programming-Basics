@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ex08_LunchBreak {
     public static void main(String[] args) {
-        Scanner scanner =new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         String series = scanner.nextLine();
         int episodeTime = Integer.parseInt(scanner.nextLine());
