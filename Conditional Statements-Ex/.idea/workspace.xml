@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e5ee9f-74a9-4d83-be1c-f63de68a68de" name="Changes" comment="created Ex08_LunchBreak">
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/Conditional-Statements-Lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L01_ExcellentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L02_GreaterNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L03_EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L04_PasswordGuess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L05_NumberFrom100To200.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L06_SpeedInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditional Statements - Lab/src/L07_AreaOfFigures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statements-Ex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_SumSeconds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex02_BonusScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex03_TimePlus15Minutes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex04_ToyShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex05_GodzillaVsKong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex06_WorldSwimmingRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex07_Shopping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex08_LunchBreak.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aachanova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aachanova/Java-Programming-Basics.git&quot;,
+    &quot;accountId&quot;: &quot;9f6610f7-b85d-4990-9ffe-648384e9f056&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mcq5bhqEXNEY38T5SYtKu77Yvl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex01_SumSeconds.executor": "Run",
+    "Application.Ex03_TimePlus15Minutes.executor": "Run",
+    "Application.Ex04_ToyShop.executor": "Run",
+    "Application.Ex05_GodzillaVsKong.executor": "Run",
+    "Application.Ex06_WorldSwimmingRecord.executor": "Run",
+    "Application.Ex07_Shopping.executor": "Run",
+    "Application.Ex08_LunchBreak.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.XML"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ex08_LunchBreak">
+    <configuration name="Ex04_ToyShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex04_ToyShop" />
+      <module name="Conditional Statements-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05_GodzillaVsKong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex05_GodzillaVsKong" />
+      <module name="Conditional Statements-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex06_WorldSwimmingRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex06_WorldSwimmingRecord" />
+      <module name="Conditional Statements-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex07_Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex07_Shopping" />
+      <module name="Conditional Statements-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex08_LunchBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_LunchBreak" />
+      <module name="Conditional Statements-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex08_LunchBreak" />
+        <item itemvalue="Application.Ex07_Shopping" />
+        <item itemvalue="Application.Ex06_WorldSwimmingRecord" />
+        <item itemvalue="Application.Ex05_GodzillaVsKong" />
+        <item itemvalue="Application.Ex04_ToyShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e5ee9f-74a9-4d83-be1c-f63de68a68de" name="Changes" comment="" />
+      <created>1727386031650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727386031650</updated>
+    </task>
+    <task id="LOCAL-00001" summary="created Ex02_BonusScore">
+      <option name="closed" value="true" />
+      <created>1727386166558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727386166558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created Ex01_SumSeconds">
+      <option name="closed" value="true" />
+      <created>1727387043614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727387043614</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created Ex03_TimePlus15Minutes">
+      <option name="closed" value="true" />
+      <created>1727388972729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727388972729</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created Ex04_ToyShop">
+      <option name="closed" value="true" />
+      <created>1727392143265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727392143265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created Ex05_GodzillaVsKong">
+      <option name="closed" value="true" />
+      <created>1727430757258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727430757258</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created Ex06_WorldSwimmingRecord">
+      <option name="closed" value="true" />
+      <created>1727432390314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727432390314</updated>
+    </task>
+    <task id="LOCAL-00007" summary="created Ex07_Shopping">
+      <option name="closed" value="true" />
+      <created>1727436306253</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727436306253</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created Ex07_Shopping">
+      <option name="closed" value="true" />
+      <created>1728334301384</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334301384</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created Ex08_LunchBreak">
+      <option name="closed" value="true" />
+      <created>1728334415830</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334415830</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created Ex02_BonusScore" />
+    <MESSAGE value="created Ex01_SumSeconds" />
+    <MESSAGE value="created Ex03_TimePlus15Minutes" />
+    <MESSAGE value="created Ex04_ToyShop" />
+    <MESSAGE value="created Ex05_GodzillaVsKong" />
+    <MESSAGE value="created Ex06_WorldSwimmingRecord" />
+    <MESSAGE value="created Ex07_Shopping" />
+    <MESSAGE value="created Ex08_LunchBreak" />
+    <option name="LAST_COMMIT_MESSAGE" value="created Ex08_LunchBreak" />
+  </component>
+</project>
