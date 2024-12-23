@@ -5,7 +5,7 @@ public class ConvertorFromRadToDeg {
         // degree = rad * 180 / π
         Scanner scanner = new Scanner(System.in);
         double radians = Double.parseDouble(scanner.nextLine());
-        double degrees = radians * (180 / Math.PI);
+        double degrees = radians * 180 / Math.PI;
         System.out.println(degrees);
     }
 }
