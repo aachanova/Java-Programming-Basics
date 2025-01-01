@@ -15,10 +15,7 @@ public class Ex02_ExamPreparation {
         while (!taskName.equals("Enough")) {
             int grade = Integer.parseInt(scanner.nextLine());
 
-            if (grade > 4) {
-                solvedTasks++;
-
-            } else {
+            if (grade <= 4) {
                 failedCount++;
 
                 if (failedCount == badGrades) {
@@ -29,13 +26,14 @@ public class Ex02_ExamPreparation {
             }
 
             gradeSum += grade;
+            solvedTasks++;
             currentTask = taskName;
             taskName = scanner.nextLine();
         }
 
         if (!isFailed) {
-            System.out.printf("Average score: %.2f%n", gradeSum / (solvedTasks + failedCount));
-            System.out.printf("Number of problems: %d%n", solvedTasks + failedCount);
+            System.out.printf("Average score: %.2f%n", gradeSum / solvedTasks);
+            System.out.printf("Number of problems: %d%n", solvedTasks);
             System.out.printf("Last problem: %s", currentTask);
         }
     }
